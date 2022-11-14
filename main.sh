@@ -1,2 +1,2 @@
-gcc forkjoin2.c -o forkjoin2 
-./forkjoin2
+gcc forkjoin.c -o forkjoin
+./forkjoin
